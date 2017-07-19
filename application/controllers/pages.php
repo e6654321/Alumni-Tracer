@@ -10,9 +10,9 @@ class Pages extends CI_Controller{
 		}
 
 		$data['page'] = $page;
-		$data['about'] = '/BWAT/about';
-		$data['trace'] = '/BWAT/trace';
-		$data['contact'] = '/BWAT/contact';
+		$data['about'] = 'about';
+		$data['trace'] = 'trace';
+		$data['contact'] = 'contact';
 		if ($page=='home'){
 			$data['title'] = 'Bitwise Alumni Tracer';
 			$data['top'] = '#page-top';
@@ -21,7 +21,7 @@ class Pages extends CI_Controller{
 		}
 		else{
 			//$data['title'] = ucfirst($page); // Capitalize the first letter{
-			$data['top'] = '/BWAT/home';
+			$data['top'] = 'home';
 			if ($page=='about'){
 				$data['title'] = 'About Alumni Tracer';
 				$data['about'] = '#about';

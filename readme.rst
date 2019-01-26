@@ -35,4 +35,6 @@ Developers
 
 Adviser: 	Felix Calvo
 
-Members: 	Elram Espra, Venus Abacahin, Kent Makibulan, Yureen Flores, Lavin Alimangohan, Nash Tapayan, Julian Maypa, Francos Cagulada
+Team Leader: Elram Espra
+
+Members: 	Venus Abacahin, Kent Makibulan, Yureen Flores, Lavin Alimangohan, Nash Tapayan, Julian Maypa, Francos Cagulada

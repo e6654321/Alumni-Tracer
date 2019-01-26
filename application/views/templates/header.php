@@ -83,7 +83,7 @@
 					<div class="col-md-8 col-md-offset-2">
 						<h1 class="brand-heading"><?php echo $header; ?></h1>
 						<p class="intro-text">
-							A free, responsive, one page Bootstrap theme. <br>Created by
+							A simple way to search for your Alumni. <br>Created by
 							BitWise Guild.
 						</p>
 						<a href="#<?php echo $page;?>" class="btn btn-circle page-scroll">
